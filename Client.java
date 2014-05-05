@@ -5,7 +5,6 @@ import java.net.*;
 import java.util.*;
 
 /**
- * @author shashwat
  *
  */
 public class Client
